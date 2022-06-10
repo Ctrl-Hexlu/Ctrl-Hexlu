@@ -1,17 +1,14 @@
+<h1>NOTAS :</h1>
 
-- <b>width</b> : Especifica la anchura del area de contenido de un elemento
-
-
-
-
-
+- width / ancho <!--Especifica la anchura del area de contenido de un elemento--></br>
+- margin / margen <!--Establece el margen para los cuatro lados--></br>
+- padding / relleno <!--Es el espacio entre el contenido del elemento y su borde--></br>
 
 
-- 👋 Hi, I’m @Ctrl-Hexlu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+
+
 
 <!---
 Ctrl-Hexlu/Ctrl-Hexlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
